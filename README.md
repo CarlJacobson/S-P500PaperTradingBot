@@ -9,4 +9,4 @@
 ## This bot was made to practice live implementation and hosting of trading strategies, and to further explore S&P500's overnight returns
 
 
-## Currently running on pythonanywhere.com
+## Currently running on AWS EC2 instance
